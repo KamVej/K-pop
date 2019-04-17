@@ -6,13 +6,18 @@ tags:
     - groups
     - music
 ---
+**Úvod**
+
+Článek obsahuje dva Moodboardy z dvoučlenného týmu a jejich popis. Nastiňuje, co bude obsahem webu a na co se bude tato stránka zaměřovat.
+
+**Hana Jakubčíková**
 
 Cílem mého moodboardu bylo říct, že stojí za to dát K-popu šanci. Nemá smysl ho zatracovat předtím, než si ho poslechneme. 
 Z tohoto důvodu jsem do horní části dala tři screenshoty. Jeden nám ukazuje, že již 10 let se udílí prestižní ceny 
 na Mnet asian music awards neboli MAMA. 
 
 **MAMA**<br>
-Vyhlašuje vítěze ve 43 kategoriích. Například v loňském roce vyhrála v soušastnosti nejpopulárnější skupina BTS v 8 kategoriích.
+Vyhlašuje vítěze ve 43 kategoriích. Například v loňském roce vyhrála v současnosti nejpopulárnější skupina BTS v 8 kategoriích.
 
 Další dva screenshoty zobrazují nejnovější a nejposlouchanější songy. Jeden se zaměřuje na Youtube a druhý 
 na *Mwave týdenní žebříček skladeb.*
