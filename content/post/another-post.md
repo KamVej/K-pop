@@ -6,6 +6,9 @@ tags:
     - groups
     - music
 ---
+**Úvod**
+
+Článek obsahuje dva Moodboardy z dvoučlenného týmu a jejich popis. Nastiňuje, co bude obsahem webu a na co se bude tato stránka zaměřovat.
 
 **Hana Jakubčíková**
 
@@ -14,7 +17,7 @@ Z tohoto důvodu jsem do horní části dala tři screenshoty. Jeden nám ukazuj
 na Mnet asian music awards neboli MAMA. 
 
 **MAMA**<br>
-Vyhlašuje vítěze ve 43 kategoriích. Například v loňském roce vyhrála v soušastnosti nejpopulárnější skupina BTS v 8 kategoriích.
+Vyhlašuje vítěze ve 43 kategoriích. Například v loňském roce vyhrála v současnosti nejpopulárnější skupina BTS v 8 kategoriích.
 
 Další dva screenshoty zobrazují nejnovější a nejposlouchanější songy. Jeden se zaměřuje na Youtube a druhý 
 na *Mwave týdenní žebříček skladeb.*
@@ -28,7 +31,7 @@ Co se týká barevného provedení, zvolila jsem jednoduchou barvu pozadí, aby 
 
 ***Moodboard***
 
-<img src="https://is.muni.cz/auth/www/457401/I_Feel_Extremely__Blessed.png">
+<div class="canva-embed" data-design-id="DADXMuyN3EI" data-height-ratio="0.8000" style="padding:80.0000% 5px 5px 5px;background:rgba(0,0,0,0.03);border-radius:8px;"></div><script async src="https:&#x2F;&#x2F;sdk.canva.com&#x2F;v1&#x2F;embed.js"></script><a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DADXMuyN3EI&#x2F;view?utm_content=DADXMuyN3EI&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">I Feel Extremely #Blessed</a> od <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;HanaJakubcikova?utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Hana</a>
 
 **Kamila Vejmelková**
 
