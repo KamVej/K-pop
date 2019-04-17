@@ -1,5 +1,5 @@
-title: My New Hugo Site
-baseURL: https://xyz.netlify.com/
+title: Tajemství K-popu
+baseURL: https://amazing-nightingale-44bd22.netlify.com/
 languageCode: cs-cz
 publishDir: public
 
@@ -14,6 +14,6 @@ menu:
       weight: 20
 
 params:
-  description: Description of my new site.
-  authors: Authors
+  description: Stránka zabývající se K-popem a jeho vzrůstající popularitou.
+  authors: Hana Jakubčíková, Kamila Vejmelková
 
